@@ -1,4 +1,4 @@
-# The-Trading-Pitstop
+# The Trading Pitstop Calculator
 The Trading Pitstop App
 
 We use the Calculator to calculate our $Risk for each trade:
@@ -22,4 +22,3 @@ We use the Calculator to calculate our $Risk for each trade:
  * Only 1% Risk per Trade
  * Only Standard Accounts
  
-
