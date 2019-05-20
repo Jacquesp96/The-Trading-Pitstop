@@ -9,6 +9,7 @@ We use the Calculator to calculate our $Risk for each trade:
  
  ## Input
  * Pair
+ * Direction
  * Account Size
  * Entry Level
  * Stop Loss Level
