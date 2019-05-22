@@ -28,7 +28,7 @@ public class Calculator {
 		
 		//Use the getStopDistance Procedure to calculate the distance between the entry and Stop Loss
 		Double result;
-		result = getStopDistance(entryLevel, stopLossLevel, true);
+		result = getStopDistance(entryLevel, stopLossLevel);
 		
 		
 		//ticks = 5 Decimals
@@ -39,7 +39,16 @@ public class Calculator {
 
 	}
 	
-	public static Double getStopDistance(Double inputEntryLevel, Double inputStopLossLevel, Boolean Long) {	
+	public static Double getStopDistance(Double inputEntryLevel, Double inputStopLossLevel) {	
+		Boolean Long;
+		//Check if it is a Long or Short Position
+		if (inputEntryLevel > inputStopLossLevel) {
+			Long = true;
+		}
+		else {
+			Long = false;
+		}
+		
 		
 		Double result;
 		//If it is a Long position then the entry level should be subtracted from the Stop Loss Level
