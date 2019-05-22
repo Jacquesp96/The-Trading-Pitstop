@@ -23,3 +23,8 @@ We use the Calculator to calculate our $Risk for each trade:
  * Only 1% Risk per Trade
  * Only Standard Accounts
  
+# Formula
+
+
+### USD Base Currency            
+Lot Size = $Risk / Stop Distance  
