@@ -28,3 +28,6 @@ We use the Calculator to calculate our $Risk for each trade:
 
 ### USD Base Currency            
 Lot Size = $Risk / Stop Distance  
+
+### USD Quote
+Lot Size = $Risk / Stop Distance x Exchange Rate
