@@ -1,7 +1,7 @@
 # The Trading Pitstop
-The Trading Pitstop App
+The Trading Pitstop App is a Community Driven Open Source Project for All Traders. 
 
-# Releases:
+# Upcoming Releases:
 * Lot Size Calculator
 
 # Under Construction:
@@ -10,5 +10,5 @@ The Trading Pitstop App
 * Trade Copier
 
 # Road Map:
-* Android App
+* Android & Apple App
 * MT5 Integration
