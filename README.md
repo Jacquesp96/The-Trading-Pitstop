@@ -13,12 +13,12 @@ Open Source Project for All Traders
 #### Lot Size Calculator
 ```bash
 - Windows 10 Basic Lot Size Calculator
-   - USD Base & Quote Currencies
+   - USD Base and Quote Currencies
    - Majors
 - Forex Support
 ```
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
 
 
 
